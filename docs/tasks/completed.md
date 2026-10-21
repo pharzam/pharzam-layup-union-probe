@@ -24,6 +24,7 @@ change, reviewed as one.
 
 ## Log
 
+- **2026-10-21** — **T-bbbb** — a probe entry of the union test. [Task file](T-bbbb.md).
 - **2026-10-21** — **T-aaaa** — a probe entry of the union test. [Task file](T-aaaa.md).
 
 - **2026-10-21** — **T-c826** — K5 projects the landing figure under ADR-0028 with declared evidence exclusions, tolerance, limit and margins; the PR #453 checker-only CI exception retains both restored runners and is removed by #452; round 2 nothing material in scope ([#449](https://github.com/pharzam/layup/issues/449); [detail](T-c826.md)).
