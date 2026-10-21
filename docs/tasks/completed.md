@@ -24,6 +24,8 @@ change, reviewed as one.
 
 ## Log
 
+- **2026-10-21** — **T-bbbb** — a probe entry of the union test. [Task file](T-bbbb.md).
+
 - **2026-10-21** — **T-c826** — K5 projects the landing figure under ADR-0028 with declared evidence exclusions, tolerance, limit and margins; the PR #453 checker-only CI exception retains both restored runners and is removed by #452; round 2 nothing material in scope ([#449](https://github.com/pharzam/layup/issues/449); [detail](T-c826.md)).
 - **2026-10-17** — **T-6zj3** — Row 66e of `M2e`: The attempts, the independence and the frozen tests ([#361](https://github.com/pharzam/layup/issues/361); [the plan](../plan/README.md#the-tasks-of-m2e)); [detail](T-6zj3.md)
 - **2026-10-17** — **T-8bwd** — Define the handoff items' rules and implementation ownership for `M2e` ([#387](https://github.com/pharzam/layup/issues/387); [detail](T-8bwd.md))
