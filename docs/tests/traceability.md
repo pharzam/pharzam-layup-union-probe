@@ -43,6 +43,7 @@ reviewed as one, never the narrow exception of
 | Test ID | Level | Covers (REQ/NFR) | Fact (F-NNNN#n) | Guardrail | ADR | Task | Status |
 |---------|-------|------------------|-----------------|-----------|-----|------|--------|
 | TestProbebbbb | integration | — | F-0003#47 | — | T-bbbb | done |
+| TestProbeaaaa | integration | — | F-0003#47 | — | T-aaaa | done |
 | `TestTheSharedIndexesMergeWithNoConflictInLandingOrder` (`internal/git/indexmerge_integration_test.go`) | integration | — | F-0003#47 | guardrails.md §2 | — | T-5ve2 | green |
 | `TestGolden` (`internal/psb/check_test.go`) | unit | REQ-001 | F-0003#41 | — | ADR-0011 | T-dq05, T-5zmw | green |
 | `TestCRLFGivesTheSameTable`, `TestALoneCarriageReturnBecomesASpace`, `TestG1ReadsTheValueOfAStack`, `TestEdgeCases`, `TestWriteTSVGivesTheErrorOfItsOutput` (`internal/psb/check_test.go`) | unit | REQ-001 | F-0003#41 | — | ADR-0011 | T-5zmw | green |
